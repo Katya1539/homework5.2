@@ -47,7 +47,6 @@ HELP.md
 .idea
 
 ### Package Files ###
-*.jar
 *.war
 *.nar
 *.ear
